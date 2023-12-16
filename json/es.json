@@ -1,4 +1,10 @@
 {
-    "red": "Rojo",
-    "green": "Verde"
+    "red": {
+        "string": "Rojo",
+        "params": []
+    },
+    "green": {
+        "string": "Verde",
+        "params": []
+    }
 }
